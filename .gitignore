@@ -22,3 +22,9 @@ dist/
 
 # Ignore any local history files
 .history/
+
+# Ignore compiled C files
+*.o
+*.out
+*.exe
+cproxy
